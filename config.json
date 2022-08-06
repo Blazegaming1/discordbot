@@ -1,0 +1,18 @@
+{
+    "client": {
+        "prefix": "*",
+        "activity": "EN DEV",
+        "name": "First Breath"
+    },
+
+    "BDD" : {
+        "host": "127.0.0.1",
+        "password": "",
+        "user": "root",
+        "database": "botdiscord"
+    
+    },
+
+
+    "token": "MTAwNDQxNzQ2OTE3MzIwNzA0MA.GpHPdS.OURnQB9JhTZJWQS-PLHxblzwpTHU7C9RvG-IFk"
+}
